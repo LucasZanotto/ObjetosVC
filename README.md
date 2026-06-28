@@ -351,7 +351,8 @@ Total Geral: 24
 
 =================================
 ```
-## 🎥 Funcionamento
+## 🎥 Funcionamento 
+Usamos o Q para cancelar o sistema e E para mostrar o próxima imagem
 
 <p align="center">
   <img src="demo.gif">
